@@ -11,7 +11,7 @@
     "gulp-sourcemaps": "^2.6.3",
     "jquery": "3.2.1",
     "mdi": "2.1.19",
-    "popper.js": "1.12.9",
+    "popper.js": "1.16.1",
     "simple-line-icons": "2.4.1"
   },
   "devDependencies": {
